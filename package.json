@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/demiglacesource/node-gimei#readme",
   "dependencies": {
-    "js-yaml": "3.5.2"
+    "js-yaml": "4.1.0"
   },
   "devDependencies": {
-    "jasmine": "^2.4.1"
+    "jasmine": "^5.8.0"
   }
 }
